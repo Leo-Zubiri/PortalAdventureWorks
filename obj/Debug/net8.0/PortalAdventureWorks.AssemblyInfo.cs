@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PortalAdventureWorks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a8a53cddd48b4c92012adb34851daeb8fa037e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a09471f87de3b41851de20bdaa6cb493134a3618")]
 [assembly: System.Reflection.AssemblyProductAttribute("PortalAdventureWorks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PortalAdventureWorks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
