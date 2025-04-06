@@ -93,3 +93,6 @@ dotnet ef database update
 ```
 
 > Si tenemos un error/warning de cambios pendientes en el modelo, se puede crear una nueva migracion y volver a ejecutar el comando anterior `dotnet ef migrations add sqlserverconfig`
+
+
+# [READMORE](./docs/)
